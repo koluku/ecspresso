@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.0.1](https://github.com/koluku/ecspresso/commits/v0.0.1) - 2025-07-09
+
 ## [v2.5.0](https://github.com/kayac/ecspresso/compare/v2.4.6...v2.5.0) - 2025-05-10
 - Pin external actions to mitigate supply chain attacks by @mashiike in https://github.com/kayac/ecspresso/pull/816
 - Bump github.com/golang-jwt/jwt/v4 from 4.5.1 to 4.5.2 by @dependabot in https://github.com/kayac/ecspresso/pull/819
